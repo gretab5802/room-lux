@@ -8,10 +8,10 @@ Given a lux sensor and SD card reader, gather light-level data from any room or 
 
 [View the PDF Overview](/images/CSE1012IndividualProject1-Overview.pdf)
 <p align="center">
-  <img src="/images/window1close.png" height="120" />
-  <img src="/images/window1far.png" height="120" />
-  <img src="/images/window2close.png" height="120" />
-  <img src="/images/window2far.png" height="120" />
+  <img src="/images/window1close.png" height="110" />
+  <img src="/images/window1far.png" height="110" />
+  <img src="/images/window2close.png" height="110" />
+  <img src="/images/window2far.png" height="110" />
 </p>
 
 ## Getting Started
